@@ -1,0 +1,22 @@
+{
+  "name": "learn_vue",
+  "version": "1.0.0",
+  "description": "Just try to learn Vue.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antronic/learn_vue.git"
+  },
+  "keywords": [
+    "Vue"
+  ],
+  "author": "Jirachai Chansivanon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antronic/learn_vue/issues"
+  },
+  "homepage": "https://github.com/antronic/learn_vue#readme"
+}
