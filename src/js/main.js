@@ -32,7 +32,7 @@ new Vue({
     goToPMA: function(){
       this.showLoad()
       setTimeout(()=>{
-        window.location.href = window.location.hostname+'/pma'
+        window.location.assign(window.location.hostname+'/pma')
       }, 2000)
     }
   }
