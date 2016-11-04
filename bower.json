@@ -1,0 +1,27 @@
+{
+  "name": "learn_vue",
+  "description": "I'm so tired from ReactJS, so I try to use Vue. I hope it would easier.",
+  "main": "server.js",
+  "authors": [
+    "Jirachai Chansivanon"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Vue"
+  ],
+  "homepage": "https://github.com/antronic/learn_vue",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/libs",
+    "test",
+    "tests",
+    "./libs"
+  ],
+  "dependencies": {
+    "bower": "*",
+    "bulma": "^0.2.3",
+    "vue": "^2.0.3"
+  }
+}
